@@ -1,0 +1,6 @@
+c:\users\kiamiya\documents\visual studio 2015\Projects\DevisFacile\DevisFacile\bin\Debug\DevisFacile.exe.config
+c:\users\kiamiya\documents\visual studio 2015\Projects\DevisFacile\DevisFacile\obj\Debug\DevisFacile.csprojResolveAssemblyReference.cache
+c:\users\kiamiya\documents\visual studio 2015\Projects\DevisFacile\DevisFacile\bin\Debug\DevisFacile.exe
+c:\users\kiamiya\documents\visual studio 2015\Projects\DevisFacile\DevisFacile\bin\Debug\DevisFacile.pdb
+c:\users\kiamiya\documents\visual studio 2015\Projects\DevisFacile\DevisFacile\obj\Debug\DevisFacile.exe
+c:\users\kiamiya\documents\visual studio 2015\Projects\DevisFacile\DevisFacile\obj\Debug\DevisFacile.pdb
